@@ -13,3 +13,4 @@ Hey Priyanka, Welcome
 GIT Class 
 
 >>>>>>> feature2
+how are you??
