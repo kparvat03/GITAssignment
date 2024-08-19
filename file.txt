@@ -1,3 +1,8 @@
 Hello
+<<<<<<< HEAD
 Priyanka
 Parvat
+=======
+my text file
+
+>>>>>>> parent of c0bb883 (adding new)
