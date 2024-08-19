@@ -1,6 +1,4 @@
-Hello
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Priyanka
 Parvat
 =======
@@ -11,3 +9,4 @@ my text file
 Hey Priyanka, Welcome
 
 >>>>>>> feature
+GIT Class
