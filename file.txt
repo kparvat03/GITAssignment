@@ -9,4 +9,4 @@ my text file
 Hey Priyanka, Welcome
 
 >>>>>>> feature
-GIT Class
+GIT Class hello
