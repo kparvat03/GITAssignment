@@ -8,5 +8,8 @@ my text file
 =======
 Hey Priyanka, Welcome
 
+<<<<<<< HEAD
 >>>>>>> feature
-GIT Class hello
+GIT Class 
+
+>>>>>>> feature2
